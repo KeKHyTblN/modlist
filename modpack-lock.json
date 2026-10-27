@@ -87,8 +87,8 @@
       "filename": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZDZENbHH/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar",
       "hashes": {
-        "sha1": "52c008540c7dc2cc451f7e939a885d7462c9ae72",
-        "sha512": "af14a35e51f1c5d94139c6225ae641e8b0ded5a8c68eb4806cf28025d6c043455ac289902cd6b854a867320ab845ad619b186d02b8341822faf03f4476dec555"
+        "sha512": "af14a35e51f1c5d94139c6225ae641e8b0ded5a8c68eb4806cf28025d6c043455ac289902cd6b854a867320ab845ad619b186d02b8341822faf03f4476dec555",
+        "sha1": "52c008540c7dc2cc451f7e939a885d7462c9ae72"
       },
       "client": true,
       "server": true,
@@ -117,8 +117,8 @@
       "filename": "sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
       "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/7V3OGECb/sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
       "hashes": {
-        "sha512": "f01ef419bfdd6744acb4a7536751535bd0aa6ea4b2807468cad1c63e59878c8875324375247c84c3baae21f34d7599860a1db05238a89ad20aa6d6c5a7cb528a",
-        "sha1": "8e7edebc4182974d4371499953a6f41f6b45a7b1"
+        "sha1": "8e7edebc4182974d4371499953a6f41f6b45a7b1",
+        "sha512": "f01ef419bfdd6744acb4a7536751535bd0aa6ea4b2807468cad1c63e59878c8875324375247c84c3baae21f34d7599860a1db05238a89ad20aa6d6c5a7cb528a"
       },
       "client": true,
       "server": true,
@@ -132,8 +132,8 @@
       "filename": "sophisticatedcore-1.21.1-1.5.19.2434.jar",
       "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/p1iOw2RH/sophisticatedcore-1.21.1-1.5.19.2434.jar",
       "hashes": {
-        "sha1": "f0d0fc6d3d8738a4c7a2ff79eaf59bac894d3fd1",
-        "sha512": "a8ef09646497a372e7e00d12366465d2d18809ff4d8c1358e40303c8567bc9e7100d76940908c563095167777c5cb5bbed50cc3bbb371573fcab40490cf01321"
+        "sha512": "a8ef09646497a372e7e00d12366465d2d18809ff4d8c1358e40303c8567bc9e7100d76940908c563095167777c5cb5bbed50cc3bbb371573fcab40490cf01321",
+        "sha1": "f0d0fc6d3d8738a4c7a2ff79eaf59bac894d3fd1"
       },
       "client": true,
       "server": true,
@@ -237,12 +237,42 @@
       "filename": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
       "hashes": {
-        "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
-        "sha512": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330"
+        "sha512": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330",
+        "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765"
       },
       "client": true,
       "server": true,
       "role": "dependency"
+    },
+    {
+      "project_id": "zV5r3pPn",
+      "name": "3D Skin Layers",
+      "version": "1.11.4",
+      "version_id": "GJTnQGfe",
+      "filename": "skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/GJTnQGfe/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
+      "hashes": {
+        "sha1": "d4864fac231ff3d360e08a82f06553c3f76de8a6",
+        "sha512": "541d39edf2781676d9777e3c4a18f179f0b0c04f3ea10d279154996b165e02ae5431100f74f95125ba6df2d7f78aacb9353a02e0c2a436b878e7393788cb0a6b"
+      },
+      "client": true,
+      "server": false,
+      "role": "primary"
+    },
+    {
+      "project_id": "idMHQ4n2",
+      "name": "CustomSkinLoader",
+      "version": "15.1-Universal",
+      "version_id": "yyYvYfZI",
+      "filename": "CustomSkinLoader_Universal-15.1.jar",
+      "url": "https://cdn.modrinth.com/data/idMHQ4n2/versions/yyYvYfZI/CustomSkinLoader_Universal-15.1.jar",
+      "hashes": {
+        "sha512": "1c3ee525200d3dff69b19d4667f0c40155d0a8eedcfed4749ec8883fcf169bcf1123942a87ca73ecf46002fded35ec653bb902b0d3900c42f4eab0323793daf2",
+        "sha1": "324e6921ecd576e44875981466e7f22170b6541a"
+      },
+      "client": true,
+      "server": false,
+      "role": "primary"
     }
   ],
   "selected_mods": [
@@ -302,6 +332,14 @@
     {
       "name": "Create Big Cannons",
       "project": "GWp4jCJj"
+    },
+    {
+      "name": "3D Skin Layers",
+      "project": "zV5r3pPn"
+    },
+    {
+      "name": "CustomSkinLoader",
+      "project": "idMHQ4n2"
     }
   ]
 }
