@@ -12,8 +12,8 @@
       "filename": "create-1.21.1-6.0.10.jar",
       "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
       "hashes": {
-        "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
-        "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b"
+        "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b",
+        "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353"
       },
       "client": true,
       "server": true,
@@ -27,8 +27,8 @@
       "filename": "jei-1.21.1-neoforge-19.64.0.455.jar",
       "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/iv3KiVkE/jei-1.21.1-neoforge-19.64.0.455.jar",
       "hashes": {
-        "sha1": "f6d6fc08d54c40752926b570a2220471e8c45c1a",
-        "sha512": "fdd02e57ce4dcf20b69860a5ace1b97d9a771486241179cf9edfe71e30c69bb4003b046d0cce8d8c4913b9689f1d8b04cf0542b0b04a6cf0b3b0465f3bb11702"
+        "sha512": "fdd02e57ce4dcf20b69860a5ace1b97d9a771486241179cf9edfe71e30c69bb4003b046d0cce8d8c4913b9689f1d8b04cf0542b0b04a6cf0b3b0465f3bb11702",
+        "sha1": "f6d6fc08d54c40752926b570a2220471e8c45c1a"
       },
       "client": true,
       "server": true,
@@ -57,8 +57,8 @@
       "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
       "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
       "hashes": {
-        "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
-        "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2"
+        "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2",
+        "sha1": "88ee316e68900080b017f60c12162e2731924cf8"
       },
       "client": true,
       "server": true,
@@ -72,8 +72,8 @@
       "filename": "embeddium-1.0.15+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/J7b96IEd/embeddium-1.0.15%2Bmc1.21.1.jar",
       "hashes": {
-        "sha1": "56063839172a000d079272794bad366f2ad4cbbd",
-        "sha512": "d073cf52dcf2aeec3ac9f746d4571c7b4b1ad746fa11d4bcc5a21a264ae3119ac6d341d08cc9a70042cf0ddffc3b3ef3329ed30217035d4551c9d6788b6dc1e6"
+        "sha512": "d073cf52dcf2aeec3ac9f746d4571c7b4b1ad746fa11d4bcc5a21a264ae3119ac6d341d08cc9a70042cf0ddffc3b3ef3329ed30217035d4551c9d6788b6dc1e6",
+        "sha1": "56063839172a000d079272794bad366f2ad4cbbd"
       },
       "client": true,
       "server": false,
@@ -117,8 +117,8 @@
       "filename": "sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
       "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/7V3OGECb/sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
       "hashes": {
-        "sha1": "8e7edebc4182974d4371499953a6f41f6b45a7b1",
-        "sha512": "f01ef419bfdd6744acb4a7536751535bd0aa6ea4b2807468cad1c63e59878c8875324375247c84c3baae21f34d7599860a1db05238a89ad20aa6d6c5a7cb528a"
+        "sha512": "f01ef419bfdd6744acb4a7536751535bd0aa6ea4b2807468cad1c63e59878c8875324375247c84c3baae21f34d7599860a1db05238a89ad20aa6d6c5a7cb528a",
+        "sha1": "8e7edebc4182974d4371499953a6f41f6b45a7b1"
       },
       "client": true,
       "server": true,
@@ -132,8 +132,8 @@
       "filename": "sophisticatedcore-1.21.1-1.5.19.2434.jar",
       "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/p1iOw2RH/sophisticatedcore-1.21.1-1.5.19.2434.jar",
       "hashes": {
-        "sha512": "a8ef09646497a372e7e00d12366465d2d18809ff4d8c1358e40303c8567bc9e7100d76940908c563095167777c5cb5bbed50cc3bbb371573fcab40490cf01321",
-        "sha1": "f0d0fc6d3d8738a4c7a2ff79eaf59bac894d3fd1"
+        "sha1": "f0d0fc6d3d8738a4c7a2ff79eaf59bac894d3fd1",
+        "sha512": "a8ef09646497a372e7e00d12366465d2d18809ff4d8c1358e40303c8567bc9e7100d76940908c563095167777c5cb5bbed50cc3bbb371573fcab40490cf01321"
       },
       "client": true,
       "server": true,
@@ -147,8 +147,8 @@
       "filename": "ars_nouveau-1.21.1-5.13.3.jar",
       "url": "https://cdn.modrinth.com/data/TKB6INcv/versions/yWDnir1o/ars_nouveau-1.21.1-5.13.3.jar",
       "hashes": {
-        "sha1": "541b3286d187deeb9a1297a509d0d3539d8af0f6",
-        "sha512": "30f188cfc932bd58c95740488732df7e92d98e7345e271b1a223e41a43fc3dd52284d0ff07fc3e8a95e914082f899394eff3a0f37c174d317e6e37fb68b083df"
+        "sha512": "30f188cfc932bd58c95740488732df7e92d98e7345e271b1a223e41a43fc3dd52284d0ff07fc3e8a95e914082f899394eff3a0f37c174d317e6e37fb68b083df",
+        "sha1": "541b3286d187deeb9a1297a509d0d3539d8af0f6"
       },
       "client": true,
       "server": true,
@@ -222,8 +222,8 @@
       "filename": "createbigcannons-5.11.7+mc.1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar",
       "hashes": {
-        "sha512": "24f414dfbb973a0f4d9c9b2aa059edc7bed4d23b4f39eb1f7d23a1d6b437e3b5d64cca6e4b85ff7eb2815743fa711d54ad652bffe96d1eb1234544716006440d",
-        "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d"
+        "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d",
+        "sha512": "24f414dfbb973a0f4d9c9b2aa059edc7bed4d23b4f39eb1f7d23a1d6b437e3b5d64cca6e4b85ff7eb2815743fa711d54ad652bffe96d1eb1234544716006440d"
       },
       "client": true,
       "server": true,
