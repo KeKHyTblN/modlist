@@ -42,8 +42,8 @@
       "filename": "mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
       "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/RdGonQpr/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
       "hashes": {
-        "sha1": "a20ecb9978bd8eebd40f4548d14b0a360a63f8a4",
-        "sha512": "2a20fdcca268c0f80547806582c94d79de6d339aabd3714af4bc5cf25ce983028f72ae707d52b44786adeb4e4c1976bebd7dbc4a75a3bf4575ec44c2bcd28dc3"
+        "sha512": "2a20fdcca268c0f80547806582c94d79de6d339aabd3714af4bc5cf25ce983028f72ae707d52b44786adeb4e4c1976bebd7dbc4a75a3bf4575ec44c2bcd28dc3",
+        "sha1": "a20ecb9978bd8eebd40f4548d14b0a360a63f8a4"
       },
       "client": true,
       "server": true,
@@ -177,8 +177,8 @@
       "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar",
       "hashes": {
-        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
-        "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd"
+        "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd",
+        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac"
       },
       "client": true,
       "server": true,
