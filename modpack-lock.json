@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "minecraft": "1.21.1",
+  "loader": "neoforge",
+  "neoforge": "21.1.265",
+  "mods": [
+    {
+      "project_id": "LNytGWDc",
+      "name": "Create",
+      "version": "6.0.10+mc1.21.1",
+      "version_id": "UjX6dr61",
+      "filename": "create-1.21.1-6.0.10.jar",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+      "hashes": {
+        "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b",
+        "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353"
+      },
+      "client": true,
+      "server": true,
+      "role": "primary"
+    },
+    {
+      "project_id": "u6dRKJwZ",
+      "name": "Just Enough Items (JEI)",
+      "version": "19.64.0.455",
+      "version_id": "iv3KiVkE",
+      "filename": "jei-1.21.1-neoforge-19.64.0.455.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/iv3KiVkE/jei-1.21.1-neoforge-19.64.0.455.jar",
+      "hashes": {
+        "sha512": "fdd02e57ce4dcf20b69860a5ace1b97d9a771486241179cf9edfe71e30c69bb4003b046d0cce8d8c4913b9689f1d8b04cf0542b0b04a6cf0b3b0465f3bb11702",
+        "sha1": "f6d6fc08d54c40752926b570a2220471e8c45c1a"
+      },
+      "client": true,
+      "server": true,
+      "role": "primary"
+    },
+    {
+      "project_id": "7tEfOcA7",
+      "name": "MezzConfig",
+      "version": "0.6.9",
+      "version_id": "RdGonQpr",
+      "filename": "mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
+      "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/RdGonQpr/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
+      "hashes": {
+        "sha1": "a20ecb9978bd8eebd40f4548d14b0a360a63f8a4",
+        "sha512": "2a20fdcca268c0f80547806582c94d79de6d339aabd3714af4bc5cf25ce983028f72ae707d52b44786adeb4e4c1976bebd7dbc4a75a3bf4575ec44c2bcd28dc3"
+      },
+      "client": true,
+      "server": true,
+      "role": "dependency"
+    },
+    {
+      "project_id": "nvQzSEkH",
+      "name": "Jade 🔍",
+      "version": "15.10.6+neoforge",
+      "version_id": "eYz2YBGT",
+      "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "hashes": {
+        "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+        "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2"
+      },
+      "client": true,
+      "server": true,
+      "role": "primary"
+    },
+    {
+      "project_id": "sk9rgfiA",
+      "name": "Embeddium",
+      "version": "1.0.15+mc1.21.1",
+      "version_id": "J7b96IEd",
+      "filename": "embeddium-1.0.15+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/J7b96IEd/embeddium-1.0.15%2Bmc1.21.1.jar",
+      "hashes": {
+        "sha1": "56063839172a000d079272794bad366f2ad4cbbd",
+        "sha512": "d073cf52dcf2aeec3ac9f746d4571c7b4b1ad746fa11d4bcc5a21a264ae3119ac6d341d08cc9a70042cf0ddffc3b3ef3329ed30217035d4551c9d6788b6dc1e6"
+      },
+      "client": true,
+      "server": false,
+      "role": "primary"
+    },
+    {
+      "project_id": "nmDcB62a",
+      "name": "ModernFix",
+      "version": "5.27.27+mc1.21.1",
+      "version_id": "ZDZENbHH",
+      "filename": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZDZENbHH/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar",
+      "hashes": {
+        "sha1": "52c008540c7dc2cc451f7e939a885d7462c9ae72",
+        "sha512": "af14a35e51f1c5d94139c6225ae641e8b0ded5a8c68eb4806cf28025d6c043455ac289902cd6b854a867320ab845ad619b186d02b8341822faf03f4476dec555"
+      },
+      "client": true,
+      "server": true,
+      "role": "primary"
+    },
+    {
+      "project_id": "RUtQ9kfe",
+      "name": "Neo Origins",
+      "version": "v2.2.32+1.21.1",
+      "version_id": "RIUMdHk8",
+      "filename": "neoorigins-2.2.32+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/RUtQ9kfe/versions/RIUMdHk8/neoorigins-2.2.32%2B1.21.1.jar",
+      "hashes": {
+        "sha512": "a8c30ef03ed166c104fe49314072bb0e3bd4e180814ca71da077f8787657c49dafce51bfffaaec275b798d86942929dd214f8a40c2519d0c95674a27fbb03841",
+        "sha1": "11864d523b7f33de5e82929c2e07214f44335237"
+      },
+      "client": true,
+      "server": true,
+      "role": "primary"
+    },
+    {
+      "project_id": "TyCTlI4b",
+      "name": "Sophisticated Backpacks",
+      "version": "1.21.1-3.26.17.2232",
+      "version_id": "7V3OGECb",
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/7V3OGECb/sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
+      "hashes": {
+        "sha1": "8e7edebc4182974d4371499953a6f41f6b45a7b1",
+        "sha512": "f01ef419bfdd6744acb4a7536751535bd0aa6ea4b2807468cad1c63e59878c8875324375247c84c3baae21f34d7599860a1db05238a89ad20aa6d6c5a7cb528a"
+      },
+      "client": true,
+      "server": true,
+      "role": "primary"
+    },
+    {
+      "project_id": "nmoqTijg",
+      "name": "Sophisticated Core",
+      "version": "1.21.1-1.5.19.2434",
+      "version_id": "p1iOw2RH",
+      "filename": "sophisticatedcore-1.21.1-1.5.19.2434.jar",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/p1iOw2RH/sophisticatedcore-1.21.1-1.5.19.2434.jar",
+      "hashes": {
+        "sha1": "f0d0fc6d3d8738a4c7a2ff79eaf59bac894d3fd1",
+        "sha512": "a8ef09646497a372e7e00d12366465d2d18809ff4d8c1358e40303c8567bc9e7100d76940908c563095167777c5cb5bbed50cc3bbb371573fcab40490cf01321"
+      },
+      "client": true,
+      "server": true,
+      "role": "primary"
+    },
+    {
+      "project_id": "TKB6INcv",
+      "name": "Ars Nouveau",
+      "version": "5.13.3",
+      "version_id": "yWDnir1o",
+      "filename": "ars_nouveau-1.21.1-5.13.3.jar",
+      "url": "https://cdn.modrinth.com/data/TKB6INcv/versions/yWDnir1o/ars_nouveau-1.21.1-5.13.3.jar",
+      "hashes": {
+        "sha512": "30f188cfc932bd58c95740488732df7e92d98e7345e271b1a223e41a43fc3dd52284d0ff07fc3e8a95e914082f899394eff3a0f37c174d317e6e37fb68b083df",
+        "sha1": "541b3286d187deeb9a1297a509d0d3539d8af0f6"
+      },
+      "client": true,
+      "server": true,
+      "role": "primary"
+    },
+    {
+      "project_id": "vvuO3ImH",
+      "name": "Curios API",
+      "version": "9.5.1+1.21.1",
+      "version_id": "yohfFbgD",
+      "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
+      "hashes": {
+        "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+        "sha512": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5"
+      },
+      "client": true,
+      "server": true,
+      "role": "primary"
+    },
+    {
+      "project_id": "8BmcQJ2H",
+      "name": "Geckolib",
+      "version": "4.9.3",
+      "version_id": "Grwn5rUB",
+      "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "hashes": {
+        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+        "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd"
+      },
+      "client": true,
+      "server": true,
+      "role": "primary"
+    }
+  ],
+  "selected_mods": [
+    {
+      "name": "Create",
+      "project": "create",
+      "version": "6.0.10+mc1.21.1"
+    },
+    {
+      "name": "JEI",
+      "project": "jei"
+    },
+    {
+      "name": "Jade",
+      "project": "jade"
+    },
+    {
+      "name": "Embeddium",
+      "project": "embeddium"
+    },
+    {
+      "name": "ModernFix",
+      "project": "modernfix"
+    },
+    {
+      "name": "Neo Origins",
+      "project": "neo-origins"
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "project": "sophisticated-backpacks"
+    },
+    {
+      "name": "Ars Nouveau",
+      "project": "ars-nouveau"
+    },
+    {
+      "name": "Curios API",
+      "project": "curios"
+    },
+    {
+      "name": "GeckoLib",
+      "project": "geckolib"
+    },
+    {
+      "name": "Sophisticated Core",
+      "project": "sophisticated-core"
+    }
+  ]
+}
