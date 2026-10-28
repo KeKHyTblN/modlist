@@ -12,8 +12,8 @@
       "filename": "create-1.21.1-6.0.10.jar",
       "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
       "hashes": {
-        "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b",
-        "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353"
+        "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+        "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b"
       },
       "client": true,
       "server": true,
@@ -46,8 +46,8 @@
       "filename": "mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
       "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/RdGonQpr/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
       "hashes": {
-        "sha512": "2a20fdcca268c0f80547806582c94d79de6d339aabd3714af4bc5cf25ce983028f72ae707d52b44786adeb4e4c1976bebd7dbc4a75a3bf4575ec44c2bcd28dc3",
-        "sha1": "a20ecb9978bd8eebd40f4548d14b0a360a63f8a4"
+        "sha1": "a20ecb9978bd8eebd40f4548d14b0a360a63f8a4",
+        "sha512": "2a20fdcca268c0f80547806582c94d79de6d339aabd3714af4bc5cf25ce983028f72ae707d52b44786adeb4e4c1976bebd7dbc4a75a3bf4575ec44c2bcd28dc3"
       },
       "client": true,
       "server": true,
@@ -62,8 +62,8 @@
       "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
       "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
       "hashes": {
-        "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2",
-        "sha1": "88ee316e68900080b017f60c12162e2731924cf8"
+        "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+        "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2"
       },
       "client": true,
       "server": true,
@@ -78,8 +78,8 @@
       "filename": "embeddium-1.0.15+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/J7b96IEd/embeddium-1.0.15%2Bmc1.21.1.jar",
       "hashes": {
-        "sha512": "d073cf52dcf2aeec3ac9f746d4571c7b4b1ad746fa11d4bcc5a21a264ae3119ac6d341d08cc9a70042cf0ddffc3b3ef3329ed30217035d4551c9d6788b6dc1e6",
-        "sha1": "56063839172a000d079272794bad366f2ad4cbbd"
+        "sha1": "56063839172a000d079272794bad366f2ad4cbbd",
+        "sha512": "d073cf52dcf2aeec3ac9f746d4571c7b4b1ad746fa11d4bcc5a21a264ae3119ac6d341d08cc9a70042cf0ddffc3b3ef3329ed30217035d4551c9d6788b6dc1e6"
       },
       "client": true,
       "server": false,
@@ -94,8 +94,8 @@
       "filename": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZDZENbHH/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar",
       "hashes": {
-        "sha1": "52c008540c7dc2cc451f7e939a885d7462c9ae72",
-        "sha512": "af14a35e51f1c5d94139c6225ae641e8b0ded5a8c68eb4806cf28025d6c043455ac289902cd6b854a867320ab845ad619b186d02b8341822faf03f4476dec555"
+        "sha512": "af14a35e51f1c5d94139c6225ae641e8b0ded5a8c68eb4806cf28025d6c043455ac289902cd6b854a867320ab845ad619b186d02b8341822faf03f4476dec555",
+        "sha1": "52c008540c7dc2cc451f7e939a885d7462c9ae72"
       },
       "client": true,
       "server": true,
@@ -126,8 +126,8 @@
       "filename": "sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
       "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/7V3OGECb/sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
       "hashes": {
-        "sha512": "f01ef419bfdd6744acb4a7536751535bd0aa6ea4b2807468cad1c63e59878c8875324375247c84c3baae21f34d7599860a1db05238a89ad20aa6d6c5a7cb528a",
-        "sha1": "8e7edebc4182974d4371499953a6f41f6b45a7b1"
+        "sha1": "8e7edebc4182974d4371499953a6f41f6b45a7b1",
+        "sha512": "f01ef419bfdd6744acb4a7536751535bd0aa6ea4b2807468cad1c63e59878c8875324375247c84c3baae21f34d7599860a1db05238a89ad20aa6d6c5a7cb528a"
       },
       "client": true,
       "server": true,
@@ -144,8 +144,8 @@
       "filename": "sophisticatedcore-1.21.1-1.5.19.2434.jar",
       "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/p1iOw2RH/sophisticatedcore-1.21.1-1.5.19.2434.jar",
       "hashes": {
-        "sha1": "f0d0fc6d3d8738a4c7a2ff79eaf59bac894d3fd1",
-        "sha512": "a8ef09646497a372e7e00d12366465d2d18809ff4d8c1358e40303c8567bc9e7100d76940908c563095167777c5cb5bbed50cc3bbb371573fcab40490cf01321"
+        "sha512": "a8ef09646497a372e7e00d12366465d2d18809ff4d8c1358e40303c8567bc9e7100d76940908c563095167777c5cb5bbed50cc3bbb371573fcab40490cf01321",
+        "sha1": "f0d0fc6d3d8738a4c7a2ff79eaf59bac894d3fd1"
       },
       "client": true,
       "server": true,
@@ -176,8 +176,8 @@
       "filename": "curios-neoforge-9.5.1+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
       "hashes": {
-        "sha512": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5",
-        "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+        "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+        "sha512": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5"
       },
       "client": true,
       "server": true,
@@ -192,8 +192,8 @@
       "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar",
       "hashes": {
-        "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd",
-        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac"
+        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+        "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd"
       },
       "client": true,
       "server": true,
@@ -224,8 +224,8 @@
       "filename": "createbigcannons-5.11.7+mc.1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar",
       "hashes": {
-        "sha512": "24f414dfbb973a0f4d9c9b2aa059edc7bed4d23b4f39eb1f7d23a1d6b437e3b5d64cca6e4b85ff7eb2815743fa711d54ad652bffe96d1eb1234544716006440d",
-        "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d"
+        "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d",
+        "sha512": "24f414dfbb973a0f4d9c9b2aa059edc7bed4d23b4f39eb1f7d23a1d6b437e3b5d64cca6e4b85ff7eb2815743fa711d54ad652bffe96d1eb1234544716006440d"
       },
       "client": true,
       "server": true,
@@ -243,13 +243,29 @@
       "filename": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
       "hashes": {
-        "sha512": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330",
-        "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765"
+        "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
+        "sha512": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330"
       },
       "client": true,
       "server": true,
       "required_projects": [],
       "role": "dependency"
+    },
+    {
+      "project_id": "uXXizFIs",
+      "name": "FerriteCore",
+      "version": "7.0.3-neoforge",
+      "version_id": "x7kQWVju",
+      "filename": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+      "hashes": {
+        "sha512": "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417",
+        "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [],
+      "role": "primary"
     }
   ],
   "selected_mods": [
@@ -305,6 +321,10 @@
     {
       "name": "Create Big Cannons",
       "project": "GWp4jCJj"
+    },
+    {
+      "name": "FerriteCore",
+      "project": "uXXizFIs"
     }
   ]
 }
