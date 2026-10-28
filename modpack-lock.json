@@ -283,8 +283,11 @@
       }
     ],
     "resourcepacks": [],
-    "keybindings": {},
-    "binding_policy": "preserve"
+    "keybindings": {
+      "key_key.sprint": "key.keyboard.left.shift",
+      "key_key.sneak": "key.keyboard.left.control"
+    },
+    "binding_policy": "force_on_change"
   },
   "selected_mods": [
     {
