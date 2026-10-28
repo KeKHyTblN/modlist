@@ -282,7 +282,18 @@
         }
       }
     ],
-    "resourcepacks": [],
+    "resourcepacks": [
+      {
+        "enabled": true,
+        "name": "Faithful-32x-1.21.1",
+        "id": "15d2e7f8e66c4fcbb2647e9633a8a121",
+        "filename": "5e9197ebbc1394c312e123cc.zip",
+        "url": "https://raw.githubusercontent.com/KeKHyTblN/modlist/main/content/5e9197ebbc1394c312e123ccf73797d75cfd7124d41d8a46ba4da5c74b7f94c2/5e9197ebbc1394c312e123cc.zip",
+        "hashes": {
+          "sha256": "5e9197ebbc1394c312e123ccf73797d75cfd7124d41d8a46ba4da5c74b7f94c2"
+        }
+      }
+    ],
     "keybindings": {
       "key_key.sprint": "key.keyboard.left.shift",
       "key_key.sneak": "key.keyboard.left.control"
