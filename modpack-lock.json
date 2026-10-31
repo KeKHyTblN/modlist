@@ -28,8 +28,8 @@
       "filename": "jei-1.21.1-neoforge-19.64.0.455.jar",
       "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/iv3KiVkE/jei-1.21.1-neoforge-19.64.0.455.jar",
       "hashes": {
-        "sha1": "f6d6fc08d54c40752926b570a2220471e8c45c1a",
-        "sha512": "fdd02e57ce4dcf20b69860a5ace1b97d9a771486241179cf9edfe71e30c69bb4003b046d0cce8d8c4913b9689f1d8b04cf0542b0b04a6cf0b3b0465f3bb11702"
+        "sha512": "fdd02e57ce4dcf20b69860a5ace1b97d9a771486241179cf9edfe71e30c69bb4003b046d0cce8d8c4913b9689f1d8b04cf0542b0b04a6cf0b3b0465f3bb11702",
+        "sha1": "f6d6fc08d54c40752926b570a2220471e8c45c1a"
       },
       "client": true,
       "server": true,
@@ -62,8 +62,8 @@
       "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
       "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
       "hashes": {
-        "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
-        "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2"
+        "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2",
+        "sha1": "88ee316e68900080b017f60c12162e2731924cf8"
       },
       "client": true,
       "server": true,
@@ -128,8 +128,8 @@
       "filename": "sophisticatedcore-1.21.1-1.5.19.2434.jar",
       "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/p1iOw2RH/sophisticatedcore-1.21.1-1.5.19.2434.jar",
       "hashes": {
-        "sha1": "f0d0fc6d3d8738a4c7a2ff79eaf59bac894d3fd1",
-        "sha512": "a8ef09646497a372e7e00d12366465d2d18809ff4d8c1358e40303c8567bc9e7100d76940908c563095167777c5cb5bbed50cc3bbb371573fcab40490cf01321"
+        "sha512": "a8ef09646497a372e7e00d12366465d2d18809ff4d8c1358e40303c8567bc9e7100d76940908c563095167777c5cb5bbed50cc3bbb371573fcab40490cf01321",
+        "sha1": "f0d0fc6d3d8738a4c7a2ff79eaf59bac894d3fd1"
       },
       "client": true,
       "server": true,
@@ -176,8 +176,8 @@
       "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar",
       "hashes": {
-        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
-        "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd"
+        "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd",
+        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac"
       },
       "client": true,
       "server": true,
@@ -243,8 +243,8 @@
       "filename": "ferritecore-7.0.3-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
       "hashes": {
-        "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
-        "sha512": "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417"
+        "sha512": "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417",
+        "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
       },
       "client": true,
       "server": true,
@@ -294,8 +294,8 @@
       "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
       "hashes": {
-        "sha512": "4f537696af95411e9daf15795fb5fcbc49913d488a96fa912fa8f1d7db408710995e8a1461190f3cd0f8217bf9e35e9539176592428ed587ca2d7aa84450a390",
-        "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693"
+        "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+        "sha512": "4f537696af95411e9daf15795fb5fcbc49913d488a96fa912fa8f1d7db408710995e8a1461190f3cd0f8217bf9e35e9539176592428ed587ca2d7aa84450a390"
       },
       "client": true,
       "server": false,
@@ -326,8 +326,8 @@
       "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
       "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
       "hashes": {
-        "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
-        "sha512": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937"
+        "sha512": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937",
+        "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246"
       },
       "client": true,
       "server": true,
@@ -342,8 +342,8 @@
       "filename": "notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/VCuMsK45/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
       "hashes": {
-        "sha1": "2098ae4965ebefb2dc8d5aec42a7d5282414fddc",
-        "sha512": "2b392f770cac669abcc796e836fc86579e29c1c70174f773fadbb747d8a49763fefd938835aeef8681a384aee9a7b6a8fa4684aaa1961159ccddea680e936acd"
+        "sha512": "2b392f770cac669abcc796e836fc86579e29c1c70174f773fadbb747d8a49763fefd938835aeef8681a384aee9a7b6a8fa4684aaa1961159ccddea680e936acd",
+        "sha1": "2098ae4965ebefb2dc8d5aec42a7d5282414fddc"
       },
       "client": true,
       "server": false,
@@ -374,8 +374,8 @@
       "filename": "voicechat-neoforge-1.21.1-2.6.22.jar",
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2s7zUspF/voicechat-neoforge-1.21.1-2.6.22.jar",
       "hashes": {
-        "sha1": "3b2001d8df61fe6dc03dcd5f5cd4a8f49821feb0",
-        "sha512": "309e3b18e299b2bccf9128dbb05c2603a9860f7cd68858d23f8fdb8265ea85ec7fb1655c95b87c0a9522ae1fd6380b26e4a4c31207f9c7af80870fcc6207abad"
+        "sha512": "309e3b18e299b2bccf9128dbb05c2603a9860f7cd68858d23f8fdb8265ea85ec7fb1655c95b87c0a9522ae1fd6380b26e4a4c31207f9c7af80870fcc6207abad",
+        "sha1": "3b2001d8df61fe6dc03dcd5f5cd4a8f49821feb0"
       },
       "client": true,
       "server": true,
@@ -422,11 +422,245 @@
       "filename": "chatanimation-neoforge-1.3.5+mc1.21.jar",
       "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/ObpFSVJe/chatanimation-neoforge-1.3.5%2Bmc1.21.jar",
       "hashes": {
-        "sha1": "e647613d3818d4ff74eb7187ea1fe7a95db3b415",
-        "sha512": "b7076df8c26414d2d564b5bd0d1447e5b1b83e120f5bb807b0deebe9fe2c9a7a08c10a45bd7db5bba2f10fc73ac5fd06456d94702ca0c113246164ebd271d896"
+        "sha512": "b7076df8c26414d2d564b5bd0d1447e5b1b83e120f5bb807b0deebe9fe2c9a7a08c10a45bd7db5bba2f10fc73ac5fd06456d94702ca0c113246164ebd271d896",
+        "sha1": "e647613d3818d4ff74eb7187ea1fe7a95db3b415"
       },
       "client": true,
       "server": false,
+      "required_projects": [],
+      "role": "primary"
+    },
+    {
+      "project_id": "UT2M39wf",
+      "name": "Create: Copycats+",
+      "version": "3.0.9+mc.1.21.1-neoforge",
+      "version_id": "bPYeUWZx",
+      "filename": "copycats-3.0.9+mc.1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/bPYeUWZx/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar",
+      "hashes": {
+        "sha512": "432b5cde473976476b0729172710d32805576d0c3a5fd66d21f882d96cef0c4eef1b85e4e3a1a316e2adc473784b11e156b0265b0f62bcfd5b035a6ff7dfcc6e",
+        "sha1": "74de17876c43f5f780bac478b9f9eb11e687b8d7"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [
+        "LNytGWDc"
+      ],
+      "role": "primary"
+    },
+    {
+      "project_id": "GmjmRQ0A",
+      "name": "Create Slice & Dice",
+      "version": "4.3.4",
+      "version_id": "D6mQaFRW",
+      "filename": "sliceanddice-4.3.4-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/D6mQaFRW/sliceanddice-4.3.4-neoforge.jar",
+      "hashes": {
+        "sha1": "bfcb12d13465caf6743f200fbd755b72705011e4",
+        "sha512": "18fc9c70d2958ad6a0e7106ca2a5659d664fe9d5001a02afbd0c7d6980749764fcd90203abb2b9c6d7b1c8e564e421be04dfca1aeb25974371d7deeabf4b96a3"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [
+        "LNytGWDc",
+        "ordsPcFz"
+      ],
+      "role": "primary"
+    },
+    {
+      "project_id": "ordsPcFz",
+      "name": "Kotlin for Forge",
+      "version": "5.12.0",
+      "version_id": "uhJhCT7X",
+      "filename": "kotlinforforge-5.12.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar",
+      "hashes": {
+        "sha512": "b8c3942f4d33179edf3f102f3d870b99dd436f8b8236dbbd31aa51b888162c692cfd88927295f24dc8b4375232f4c6c17360c5d6c4823f93cbcd7cf4bdc8bd14",
+        "sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [],
+      "role": "dependency"
+    },
+    {
+      "project_id": "Vg5TIO6d",
+      "name": "Create: Connected",
+      "version": "1.3.3-mc1.21.1",
+      "version_id": "Xe7EqzfQ",
+      "filename": "create_connected-1.3.3-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Xe7EqzfQ/create_connected-1.3.3-mc1.21.1.jar",
+      "hashes": {
+        "sha1": "96ae45fa44cd7028a31b9613cb672009e811b145",
+        "sha512": "485675693980a266611669857fa9cd348e2a29140b87bf0a8ab3e13c3591422cceaa36b7a2eb90084d35ec1868c8eec9f924383bb4dada2dddcb72e9f09361b0"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [
+        "LNytGWDc"
+      ],
+      "role": "primary"
+    },
+    {
+      "project_id": "ZM3tt6p1",
+      "name": "Create: Diesel Generators",
+      "version": "1.21.1-1.3.15",
+      "version_id": "UoPH8lO1",
+      "filename": "createdieselgenerators-1.21.1-1.3.15.jar",
+      "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/UoPH8lO1/createdieselgenerators-1.21.1-1.3.15.jar",
+      "hashes": {
+        "sha1": "7f751dabfa83c141c1d13025cd16f06553ba459b",
+        "sha512": "1507ebcd07d3185aac3ae6ce768b4d6bab16cb6f39776d25a850c8133a4dc5826b8ddbeca112d76afc64deaa37ec177cac4237c6c34621c4b65e73d83f8ab43f"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [
+        "LNytGWDc"
+      ],
+      "role": "primary"
+    },
+    {
+      "project_id": "JWGBpFUP",
+      "name": "Create: Enchantment Industry",
+      "version": "2.4.2",
+      "version_id": "qUpvzZ83",
+      "filename": "create-enchantment-industry-2.4.2.jar",
+      "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/qUpvzZ83/create-enchantment-industry-2.4.2.jar",
+      "hashes": {
+        "sha1": "4ad5c181c805a548e15892500b07c0c0f88f0734",
+        "sha512": "16bd3dcd82159d6793bd9cc24dcb911b90e838c67f781581afea8c6af21f53106ac54de7f2dffe1a8576cf8908e68658538a1c76d3c44691109a24bc60460436"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [
+        "LNytGWDc",
+        "dzb1a5WV"
+      ],
+      "role": "primary"
+    },
+    {
+      "project_id": "dzb1a5WV",
+      "name": "Create: Dragons Plus",
+      "version": "1.11.9",
+      "version_id": "b0u9vk8C",
+      "filename": "CreateDragonsPlus-1.11.9.jar",
+      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar",
+      "hashes": {
+        "sha1": "67ffcb61207a7dbc6b1e70f0473ddbacb19d44eb",
+        "sha512": "43299e49afe7132515aa8ad545b8c9566d90f12cfb39456b3d6e1ebc8e03f05787fbc420e7cc9495df4d6b585d13e7a4c4c7385f82f20aeb829c9491b725af53"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [
+        "LNytGWDc"
+      ],
+      "role": "dependency"
+    },
+    {
+      "project_id": "FTeXqI9v",
+      "name": "Create: New Age",
+      "version": "1.2.0+mc1.21.1",
+      "version_id": "IwtuwMZy",
+      "filename": "create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/IwtuwMZy/create-new-age-1.2.0%2Bneoforge-mc1.21.1.jar",
+      "hashes": {
+        "sha512": "5075c6482b800af7044b594ad694855e7d56f386cb0354967eafe99d77e84b4e26ee7f880d287672d24d84ea8086fd074b7695e46632f32f215b31ce859ada72",
+        "sha1": "849df57070ffa75c2446b9c460d03f6b49fa089e"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [
+        "LNytGWDc"
+      ],
+      "role": "primary"
+    },
+    {
+      "project_id": "btq68HMO",
+      "name": "Create: Central Kitchen",
+      "version": "2.6.2b",
+      "version_id": "qZxkZR8W",
+      "filename": "create-central-kitchen-2.6.2b.jar",
+      "url": "https://cdn.modrinth.com/data/btq68HMO/versions/qZxkZR8W/create-central-kitchen-2.6.2b.jar",
+      "hashes": {
+        "sha1": "796355e592455c84c4eee8b7cd998734a9500c0d",
+        "sha512": "d4d0a383b5288a7272392ae475d67bc947cd019bc627612bd01992f5ecd702bda078fe75302b83c9619eb26a754195e9ef5f2212cb200eef802bb7d49c255358"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [
+        "LNytGWDc",
+        "dzb1a5WV"
+      ],
+      "role": "primary"
+    },
+    {
+      "project_id": "gJ5afkVv",
+      "name": "Create: Bells & Whistles",
+      "version": "v0.4.7-1.21.1",
+      "version_id": "w0mifib8",
+      "filename": "bellsandwhistles-0.4.7-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar",
+      "hashes": {
+        "sha512": "482ee096477b89ed8ec5ce008a4a8ac0ae853079a4f5ce16ad0e0dd9b2eb12b3326f17acaaca1eae0bc51ad238f4e51c8d5b93ded71fe7240717ac8600041c59",
+        "sha1": "85944080f8bd47dad64a8193a70662cd9ddbb200"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [
+        "LNytGWDc"
+      ],
+      "role": "primary"
+    },
+    {
+      "project_id": "x49wilh8",
+      "name": "Create: Design n' Decor",
+      "version": "2.2b",
+      "version_id": "uQsIRky8",
+      "filename": "Design-n-Decor-1.21.1-2.2b.jar",
+      "url": "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar",
+      "hashes": {
+        "sha1": "ff5f0411a3d82e15d69b65617128f6d54e818e1b",
+        "sha512": "d888553c8a254c3654f8da2ae2cae0bb642594546c71988739c93bf6b18668145e0ce5b1c20ae0544b9b6019f17e4da944bd5bc17e4c6b73e7f1374cfa2c9db9"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [
+        "LNytGWDc"
+      ],
+      "role": "primary"
+    },
+    {
+      "project_id": "UbFnAd4l",
+      "name": "Create Jetpack",
+      "version": "5.2.1",
+      "version_id": "sCwiqLqq",
+      "filename": "create_jetpack-forge-5.2.1.jar",
+      "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/sCwiqLqq/create_jetpack-forge-5.2.1.jar",
+      "hashes": {
+        "sha1": "cbd949c62723d805c2ab019def6e6718c50037b8",
+        "sha512": "dd9856cf9f84d58174bcdb097f405a107d86d0947ab3d67f090994ed3a4939cc9d52bab0f56f988cd290b1e8f68d534c3e9155e33a1d67983d80923f3b67f4f3"
+      },
+      "client": true,
+      "server": true,
+      "required_projects": [
+        "LNytGWDc",
+        "ordsPcFz"
+      ],
+      "role": "primary"
+    },
+    {
+      "project_id": "JmybsfWs",
+      "name": "Create: Dreams & Desires",
+      "version": "2.3a-BETA",
+      "version_id": "bqMxf6Ua",
+      "filename": "DnDesires-1.21.1-2.3a-BETA.jar",
+      "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/bqMxf6Ua/DnDesires-1.21.1-2.3a-BETA.jar",
+      "hashes": {
+        "sha1": "72635119b4bcc49b050c50d6cbb1abb02bb3982a",
+        "sha512": "c2d70c5ef259d20ba60a66fa146fc0d37b588c5c42c0028a650af1e10678c4e4604966aa46efd25f3824df4620ef719daa8e54fc82220d7a1b22a7fcaa4e2077"
+      },
+      "client": true,
+      "server": true,
       "required_projects": [],
       "role": "primary"
     }
@@ -524,6 +758,50 @@
     {
       "name": "Chat Animation [Smooth Chat]",
       "project": "DnNYdJsx"
+    },
+    {
+      "name": "Create: Copycats+",
+      "project": "UT2M39wf"
+    },
+    {
+      "name": "Create Slice & Dice",
+      "project": "GmjmRQ0A"
+    },
+    {
+      "name": "Create: Connected",
+      "project": "Vg5TIO6d"
+    },
+    {
+      "name": "Create: Diesel Generators",
+      "project": "ZM3tt6p1"
+    },
+    {
+      "name": "Create: Enchantment Industry",
+      "project": "JWGBpFUP"
+    },
+    {
+      "name": "Create: New Age",
+      "project": "FTeXqI9v"
+    },
+    {
+      "name": "Create: Central Kitchen",
+      "project": "btq68HMO"
+    },
+    {
+      "name": "Create: Bells & Whistles",
+      "project": "gJ5afkVv"
+    },
+    {
+      "name": "Create: Design n' Decor",
+      "project": "x49wilh8"
+    },
+    {
+      "name": "Create Jetpack",
+      "project": "UbFnAd4l"
+    },
+    {
+      "name": "Create: Dreams & Desires",
+      "project": "JmybsfWs"
     }
   ],
   "client_content": {
