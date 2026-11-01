@@ -1074,7 +1074,8 @@
     ],
     "keybindings": {
       "key_key.sprint": "key.keyboard.left.shift",
-      "key_key.sneak": "key.keyboard.left.control"
+      "key_key.sneak": "key.keyboard.left.control",
+      "key_key.pingwheel.ping_location": "key.mouse.middle"
     },
     "binding_policy": "force_on_change"
   }
