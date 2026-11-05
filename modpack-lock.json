@@ -28,8 +28,8 @@
       "filename": "jei-1.21.1-neoforge-19.64.0.455.jar",
       "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/iv3KiVkE/jei-1.21.1-neoforge-19.64.0.455.jar",
       "hashes": {
-        "sha512": "fdd02e57ce4dcf20b69860a5ace1b97d9a771486241179cf9edfe71e30c69bb4003b046d0cce8d8c4913b9689f1d8b04cf0542b0b04a6cf0b3b0465f3bb11702",
-        "sha1": "f6d6fc08d54c40752926b570a2220471e8c45c1a"
+        "sha1": "f6d6fc08d54c40752926b570a2220471e8c45c1a",
+        "sha512": "fdd02e57ce4dcf20b69860a5ace1b97d9a771486241179cf9edfe71e30c69bb4003b046d0cce8d8c4913b9689f1d8b04cf0542b0b04a6cf0b3b0465f3bb11702"
       },
       "client": true,
       "server": true,
@@ -46,8 +46,8 @@
       "filename": "mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
       "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/RdGonQpr/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
       "hashes": {
-        "sha1": "a20ecb9978bd8eebd40f4548d14b0a360a63f8a4",
-        "sha512": "2a20fdcca268c0f80547806582c94d79de6d339aabd3714af4bc5cf25ce983028f72ae707d52b44786adeb4e4c1976bebd7dbc4a75a3bf4575ec44c2bcd28dc3"
+        "sha512": "2a20fdcca268c0f80547806582c94d79de6d339aabd3714af4bc5cf25ce983028f72ae707d52b44786adeb4e4c1976bebd7dbc4a75a3bf4575ec44c2bcd28dc3",
+        "sha1": "a20ecb9978bd8eebd40f4548d14b0a360a63f8a4"
       },
       "client": true,
       "server": true,
@@ -62,8 +62,8 @@
       "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
       "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
       "hashes": {
-        "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
-        "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2"
+        "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2",
+        "sha1": "88ee316e68900080b017f60c12162e2731924cf8"
       },
       "client": true,
       "server": true,
@@ -94,8 +94,8 @@
       "filename": "neoorigins-2.2.32+1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/RUtQ9kfe/versions/RIUMdHk8/neoorigins-2.2.32%2B1.21.1.jar",
       "hashes": {
-        "sha1": "11864d523b7f33de5e82929c2e07214f44335237",
-        "sha512": "a8c30ef03ed166c104fe49314072bb0e3bd4e180814ca71da077f8787657c49dafce51bfffaaec275b798d86942929dd214f8a40c2519d0c95674a27fbb03841"
+        "sha512": "a8c30ef03ed166c104fe49314072bb0e3bd4e180814ca71da077f8787657c49dafce51bfffaaec275b798d86942929dd214f8a40c2519d0c95674a27fbb03841",
+        "sha1": "11864d523b7f33de5e82929c2e07214f44335237"
       },
       "client": true,
       "server": true,
@@ -110,8 +110,8 @@
       "filename": "sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
       "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/7V3OGECb/sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
       "hashes": {
-        "sha1": "8e7edebc4182974d4371499953a6f41f6b45a7b1",
-        "sha512": "f01ef419bfdd6744acb4a7536751535bd0aa6ea4b2807468cad1c63e59878c8875324375247c84c3baae21f34d7599860a1db05238a89ad20aa6d6c5a7cb528a"
+        "sha512": "f01ef419bfdd6744acb4a7536751535bd0aa6ea4b2807468cad1c63e59878c8875324375247c84c3baae21f34d7599860a1db05238a89ad20aa6d6c5a7cb528a",
+        "sha1": "8e7edebc4182974d4371499953a6f41f6b45a7b1"
       },
       "client": true,
       "server": true,
@@ -144,8 +144,8 @@
       "filename": "ars_nouveau-1.21.1-5.13.3.jar",
       "url": "https://cdn.modrinth.com/data/TKB6INcv/versions/yWDnir1o/ars_nouveau-1.21.1-5.13.3.jar",
       "hashes": {
-        "sha1": "541b3286d187deeb9a1297a509d0d3539d8af0f6",
-        "sha512": "30f188cfc932bd58c95740488732df7e92d98e7345e271b1a223e41a43fc3dd52284d0ff07fc3e8a95e914082f899394eff3a0f37c174d317e6e37fb68b083df"
+        "sha512": "30f188cfc932bd58c95740488732df7e92d98e7345e271b1a223e41a43fc3dd52284d0ff07fc3e8a95e914082f899394eff3a0f37c174d317e6e37fb68b083df",
+        "sha1": "541b3286d187deeb9a1297a509d0d3539d8af0f6"
       },
       "client": true,
       "server": true,
@@ -176,8 +176,8 @@
       "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar",
       "hashes": {
-        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
-        "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd"
+        "sha512": "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd",
+        "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac"
       },
       "client": true,
       "server": true,
@@ -227,8 +227,8 @@
       "filename": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
       "hashes": {
-        "sha512": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330",
-        "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765"
+        "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
+        "sha512": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330"
       },
       "client": true,
       "server": true,
@@ -294,27 +294,11 @@
       "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
       "hashes": {
-        "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
-        "sha512": "4f537696af95411e9daf15795fb5fcbc49913d488a96fa912fa8f1d7db408710995e8a1461190f3cd0f8217bf9e35e9539176592428ed587ca2d7aa84450a390"
+        "sha512": "4f537696af95411e9daf15795fb5fcbc49913d488a96fa912fa8f1d7db408710995e8a1461190f3cd0f8217bf9e35e9539176592428ed587ca2d7aa84450a390",
+        "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693"
       },
       "client": true,
       "server": false,
-      "required_projects": [],
-      "role": "primary"
-    },
-    {
-      "project_id": "NcUtCpym",
-      "name": "Xaero's World Map",
-      "version": "neoforge-1.21.1-1.47.0",
-      "version_id": "SnQ4SoDe",
-      "filename": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
-      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/SnQ4SoDe/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
-      "hashes": {
-        "sha1": "2936c9cb9dfbdab145fe6f1e8ae2c68915246a5f",
-        "sha512": "4d2d78bc85afa002f682ef344b7284cf1baa4903cc5a11cd1d7bd260ac63952580ae717bab47079540ead633cdd5d8e4fdf230dc99a68bcb7a269500e7dada13"
-      },
-      "client": true,
-      "server": true,
       "required_projects": [],
       "role": "primary"
     },
@@ -326,8 +310,8 @@
       "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
       "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
       "hashes": {
-        "sha512": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937",
-        "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246"
+        "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+        "sha512": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937"
       },
       "client": true,
       "server": true,
@@ -342,8 +326,8 @@
       "filename": "notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/VCuMsK45/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
       "hashes": {
-        "sha512": "2b392f770cac669abcc796e836fc86579e29c1c70174f773fadbb747d8a49763fefd938835aeef8681a384aee9a7b6a8fa4684aaa1961159ccddea680e936acd",
-        "sha1": "2098ae4965ebefb2dc8d5aec42a7d5282414fddc"
+        "sha1": "2098ae4965ebefb2dc8d5aec42a7d5282414fddc",
+        "sha512": "2b392f770cac669abcc796e836fc86579e29c1c70174f773fadbb747d8a49763fefd938835aeef8681a384aee9a7b6a8fa4684aaa1961159ccddea680e936acd"
       },
       "client": true,
       "server": false,
@@ -358,8 +342,8 @@
       "filename": "skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/GJTnQGfe/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
       "hashes": {
-        "sha512": "541d39edf2781676d9777e3c4a18f179f0b0c04f3ea10d279154996b165e02ae5431100f74f95125ba6df2d7f78aacb9353a02e0c2a436b878e7393788cb0a6b",
-        "sha1": "d4864fac231ff3d360e08a82f06553c3f76de8a6"
+        "sha1": "d4864fac231ff3d360e08a82f06553c3f76de8a6",
+        "sha512": "541d39edf2781676d9777e3c4a18f179f0b0c04f3ea10d279154996b165e02ae5431100f74f95125ba6df2d7f78aacb9353a02e0c2a436b878e7393788cb0a6b"
       },
       "client": true,
       "server": false,
@@ -406,8 +390,8 @@
       "filename": "chat_heads-0.15.7-neoforge-1.21.jar",
       "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ZPylso9i/chat_heads-0.15.7-neoforge-1.21.jar",
       "hashes": {
-        "sha1": "536b2af675229d2a33eb4cf5afbe7148a62d5f3f",
-        "sha512": "97ec4a08ffe54917591e7e05ba5ed9359e591719e4f3246745de36923a8080e68332aff28be437997c40a215b7aebc3537df892c99db4de6a5348ac7b4995144"
+        "sha512": "97ec4a08ffe54917591e7e05ba5ed9359e591719e4f3246745de36923a8080e68332aff28be437997c40a215b7aebc3537df892c99db4de6a5348ac7b4995144",
+        "sha1": "536b2af675229d2a33eb4cf5afbe7148a62d5f3f"
       },
       "client": true,
       "server": false,
@@ -422,8 +406,8 @@
       "filename": "chatanimation-neoforge-1.3.5+mc1.21.jar",
       "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/ObpFSVJe/chatanimation-neoforge-1.3.5%2Bmc1.21.jar",
       "hashes": {
-        "sha1": "e647613d3818d4ff74eb7187ea1fe7a95db3b415",
-        "sha512": "b7076df8c26414d2d564b5bd0d1447e5b1b83e120f5bb807b0deebe9fe2c9a7a08c10a45bd7db5bba2f10fc73ac5fd06456d94702ca0c113246164ebd271d896"
+        "sha512": "b7076df8c26414d2d564b5bd0d1447e5b1b83e120f5bb807b0deebe9fe2c9a7a08c10a45bd7db5bba2f10fc73ac5fd06456d94702ca0c113246164ebd271d896",
+        "sha1": "e647613d3818d4ff74eb7187ea1fe7a95db3b415"
       },
       "client": true,
       "server": false,
@@ -438,8 +422,8 @@
       "filename": "copycats-3.0.9+mc.1.21.1-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/bPYeUWZx/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar",
       "hashes": {
-        "sha512": "432b5cde473976476b0729172710d32805576d0c3a5fd66d21f882d96cef0c4eef1b85e4e3a1a316e2adc473784b11e156b0265b0f62bcfd5b035a6ff7dfcc6e",
-        "sha1": "74de17876c43f5f780bac478b9f9eb11e687b8d7"
+        "sha1": "74de17876c43f5f780bac478b9f9eb11e687b8d7",
+        "sha512": "432b5cde473976476b0729172710d32805576d0c3a5fd66d21f882d96cef0c4eef1b85e4e3a1a316e2adc473784b11e156b0265b0f62bcfd5b035a6ff7dfcc6e"
       },
       "client": true,
       "server": true,
@@ -527,8 +511,8 @@
       "filename": "create-enchantment-industry-2.4.2.jar",
       "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/qUpvzZ83/create-enchantment-industry-2.4.2.jar",
       "hashes": {
-        "sha512": "16bd3dcd82159d6793bd9cc24dcb911b90e838c67f781581afea8c6af21f53106ac54de7f2dffe1a8576cf8908e68658538a1c76d3c44691109a24bc60460436",
-        "sha1": "4ad5c181c805a548e15892500b07c0c0f88f0734"
+        "sha1": "4ad5c181c805a548e15892500b07c0c0f88f0734",
+        "sha512": "16bd3dcd82159d6793bd9cc24dcb911b90e838c67f781581afea8c6af21f53106ac54de7f2dffe1a8576cf8908e68658538a1c76d3c44691109a24bc60460436"
       },
       "client": true,
       "server": true,
@@ -582,8 +566,8 @@
       "filename": "create-central-kitchen-2.6.2b.jar",
       "url": "https://cdn.modrinth.com/data/btq68HMO/versions/qZxkZR8W/create-central-kitchen-2.6.2b.jar",
       "hashes": {
-        "sha512": "d4d0a383b5288a7272392ae475d67bc947cd019bc627612bd01992f5ecd702bda078fe75302b83c9619eb26a754195e9ef5f2212cb200eef802bb7d49c255358",
-        "sha1": "796355e592455c84c4eee8b7cd998734a9500c0d"
+        "sha1": "796355e592455c84c4eee8b7cd998734a9500c0d",
+        "sha512": "d4d0a383b5288a7272392ae475d67bc947cd019bc627612bd01992f5ecd702bda078fe75302b83c9619eb26a754195e9ef5f2212cb200eef802bb7d49c255358"
       },
       "client": true,
       "server": true,
@@ -637,8 +621,8 @@
       "filename": "create_jetpack-forge-5.2.1.jar",
       "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/sCwiqLqq/create_jetpack-forge-5.2.1.jar",
       "hashes": {
-        "sha512": "dd9856cf9f84d58174bcdb097f405a107d86d0947ab3d67f090994ed3a4939cc9d52bab0f56f988cd290b1e8f68d534c3e9155e33a1d67983d80923f3b67f4f3",
-        "sha1": "cbd949c62723d805c2ab019def6e6718c50037b8"
+        "sha1": "cbd949c62723d805c2ab019def6e6718c50037b8",
+        "sha512": "dd9856cf9f84d58174bcdb097f405a107d86d0947ab3d67f090994ed3a4939cc9d52bab0f56f988cd290b1e8f68d534c3e9155e33a1d67983d80923f3b67f4f3"
       },
       "client": true,
       "server": true,
@@ -723,8 +707,8 @@
       "filename": "railways-0.2.1+neoforge-mc1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/HOPX5oro/railways-0.2.1%2Bneoforge-mc1.21.1.jar",
       "hashes": {
-        "sha1": "f2d71927ef504b597a6c992d02118c1e6ee6e369",
-        "sha512": "dac8efb7c8b4b525114c2548bd2a8254d3b1e9e44664ba84b0f4e8467e1584029f8a219dd1ddf4389ab0a94e525183ee7753d33babdf319926cd63d2fc9cdffd"
+        "sha512": "dac8efb7c8b4b525114c2548bd2a8254d3b1e9e44664ba84b0f4e8467e1584029f8a219dd1ddf4389ab0a94e525183ee7753d33babdf319926cd63d2fc9cdffd",
+        "sha1": "f2d71927ef504b597a6c992d02118c1e6ee6e369"
       },
       "client": true,
       "server": true,
@@ -776,8 +760,8 @@
       "filename": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
       "hashes": {
-        "sha512": "0dbfe1cd74be45241c5e95354e6466af10cb50ce780d87672337bd4de03fa708dc56eb013040bb2a02a941cf19b2b282385c6a5305695a4de3534627c645f053",
-        "sha1": "cbfa42a31515e1bac4bafcdd974fbba29b7d106a"
+        "sha1": "cbfa42a31515e1bac4bafcdd974fbba29b7d106a",
+        "sha512": "0dbfe1cd74be45241c5e95354e6466af10cb50ce780d87672337bd4de03fa708dc56eb013040bb2a02a941cf19b2b282385c6a5305695a4de3534627c645f053"
       },
       "client": true,
       "server": false,
@@ -795,8 +779,8 @@
       "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
       "hashes": {
-        "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
-        "sha512": "583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48"
+        "sha512": "583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48",
+        "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb"
       },
       "client": true,
       "server": true,
@@ -859,8 +843,8 @@
       "filename": "Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
       "url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/Zrh2Fmn9/Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
       "hashes": {
-        "sha512": "d9f289464fa85c8af34bc57044a6f03abc0ccf4d93bc67451d1e68386be0e3b55524a68dcbf529773859f9166e09cf1fe848c83f1c0c1d10a374819d120d2554",
-        "sha1": "bfc416a7bc2edde6ff98672a7df43a3d9930a396"
+        "sha1": "bfc416a7bc2edde6ff98672a7df43a3d9930a396",
+        "sha512": "d9f289464fa85c8af34bc57044a6f03abc0ccf4d93bc67451d1e68386be0e3b55524a68dcbf529773859f9166e09cf1fe848c83f1c0c1d10a374819d120d2554"
       },
       "client": true,
       "server": true,
@@ -909,8 +893,8 @@
       "filename": "relics-1.21.1-0.10.7.8.jar",
       "url": "https://cdn.modrinth.com/data/OCJRPujW/versions/nvZZMhJS/relics-1.21.1-0.10.7.8.jar",
       "hashes": {
-        "sha1": "7f7fd59273ac5ef6511a811518bc9af01705a528",
-        "sha512": "eee8bc6a1c676f6c513d59732f12bb6415cc7c7fb639ad8f9d7dc9958e4b6726226106715119d8c083c49628db1cf7e3a433716425016d6d025d1730885fbce1"
+        "sha512": "eee8bc6a1c676f6c513d59732f12bb6415cc7c7fb639ad8f9d7dc9958e4b6726226106715119d8c083c49628db1cf7e3a433716425016d6d025d1730885fbce1",
+        "sha1": "7f7fd59273ac5ef6511a811518bc9af01705a528"
       },
       "client": true,
       "server": true,
@@ -957,8 +941,8 @@
       "filename": "Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar",
       "url": "https://cdn.modrinth.com/data/2rL16t1O/versions/bPhEKzZO/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar",
       "hashes": {
-        "sha1": "fa59a7bb69e3973980f525083897a2d5d74fea10",
-        "sha512": "5119e1a0026d705001e41abb7099fabe9379ad44ce624d3ec57b7cda01fc763c23dff0ebe058adedfd2de20d1a7d6245956574e4d9cfa7f199186115ca2d7811"
+        "sha512": "5119e1a0026d705001e41abb7099fabe9379ad44ce624d3ec57b7cda01fc763c23dff0ebe058adedfd2de20d1a7d6245956574e4d9cfa7f199186115ca2d7811",
+        "sha1": "fa59a7bb69e3973980f525083897a2d5d74fea10"
       },
       "client": true,
       "server": true,
@@ -976,8 +960,8 @@
       "filename": "Corgilib-NeoForge-1.21.1-5.0.0.10.jar",
       "url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/Za7PInLk/Corgilib-NeoForge-1.21.1-5.0.0.10.jar",
       "hashes": {
-        "sha512": "38107fc4823b54dee5107abb916231f2a9b18a1ae2947ed4c4d9e1af68e70cfa6d8a84019633074bcba478541b9723a9ed26abfb2e14b28b716180cf70efbca2",
-        "sha1": "78a1b2f0b4e2b816aeffb0e6a2cc0062aa343e46"
+        "sha1": "78a1b2f0b4e2b816aeffb0e6a2cc0062aa343e46",
+        "sha512": "38107fc4823b54dee5107abb916231f2a9b18a1ae2947ed4c4d9e1af68e70cfa6d8a84019633074bcba478541b9723a9ed26abfb2e14b28b716180cf70efbca2"
       },
       "client": true,
       "server": true,
@@ -992,8 +976,8 @@
       "filename": "Data_Anchor-neoforge-1.21.1-2.0.0.18.jar",
       "url": "https://cdn.modrinth.com/data/z2XEADmE/versions/WwTx4TaQ/Data_Anchor-neoforge-1.21.1-2.0.0.18.jar",
       "hashes": {
-        "sha1": "cb04d2f1ecbe5ecbca3b1ea4d7a6cc1fa74e3aee",
-        "sha512": "4bcce405d9cf535a42ad11fbada8d9c56ce020bd67c3b3cd4411a037381ccea84198e48fffdd7c8e4a308645209e7cf328c2d1651c76836a59c96de49462f74e"
+        "sha512": "4bcce405d9cf535a42ad11fbada8d9c56ce020bd67c3b3cd4411a037381ccea84198e48fffdd7c8e4a308645209e7cf328c2d1651c76836a59c96de49462f74e",
+        "sha1": "cb04d2f1ecbe5ecbca3b1ea4d7a6cc1fa74e3aee"
       },
       "client": true,
       "server": true,
@@ -1008,8 +992,8 @@
       "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "hashes": {
-        "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
-        "sha512": "f95c0cc881211ee0442434976775e07aae40b4a2ba4e3a85455bc57ca9d3c991e239cd98374a8abd442dc9c378dcd9001e2caa1bf69991d424b5652dd7f3483b"
+        "sha512": "f95c0cc881211ee0442434976775e07aae40b4a2ba4e3a85455bc57ca9d3c991e239cd98374a8abd442dc9c378dcd9001e2caa1bf69991d424b5652dd7f3483b",
+        "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
       },
       "client": true,
       "server": false,
@@ -1017,21 +1001,19 @@
       "role": "primary"
     },
     {
-      "project_id": "Z54IAe4f",
-      "name": "Waypointers",
-      "version": "0.3+1.21.1-neoforge",
-      "version_id": "9nuyA9Se",
-      "filename": "waypointers-0.3+1.21.1-neoforge.jar",
-      "url": "https://cdn.modrinth.com/data/Z54IAe4f/versions/9nuyA9Se/waypointers-0.3%2B1.21.1-neoforge.jar",
+      "project_id": "lfHFW1mp",
+      "name": "JourneyMap",
+      "version": "1.21.1-6.0.9+neoforge",
+      "version_id": "CtFE7hwT",
+      "filename": "journeymap-neoforge-1.21.1-6.0.9.jar",
+      "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/CtFE7hwT/journeymap-neoforge-1.21.1-6.0.9.jar",
       "hashes": {
-        "sha1": "7aaa3bf8114185352917dbb04e5cba100c41bb8f",
-        "sha512": "2805b1b733d218003ed066787d4a2d95973885206166c9a578b6b69ed926bec513a4fdee6e64b0674e2e04f24278aa5c2d830b5ced894152ba796ce137b35a56"
+        "sha1": "3a5c86e620a7d5aa53b6e42ca4a1577bbba1d332",
+        "sha512": "8900ee4cdb7d1ffb6559decdeec84ad479d04b2e7b01a60be9f6e328809af2bfd7a80077b7da0e49bc96261fe8fe274ba33c62f6c9f65302c783ed823c4ff746"
       },
       "client": true,
-      "server": false,
-      "required_projects": [
-        "ordsPcFz"
-      ],
+      "server": true,
+      "required_projects": [],
       "role": "primary"
     },
     {
@@ -1176,10 +1158,6 @@
     {
       "name": "Sodium",
       "project": "AANobbMI"
-    },
-    {
-      "name": "Xaero's World Map",
-      "project": "NcUtCpym"
     },
     {
       "name": "AppleSkin",
@@ -1415,8 +1393,8 @@
       "project": "aC3cM3Vq"
     },
     {
-      "name": "Waypointers",
-      "project": "Z54IAe4f"
+      "name": "JourneyMap",
+      "project": "lfHFW1mp"
     }
   ],
   "client_content": {
