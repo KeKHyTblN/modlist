@@ -1617,6 +1617,12 @@
         "host": "135.181.237.37",
         "port": 25945,
         "id": "dfe6dfd1d83f4b33b919efba0d725628"
+      },
+      {
+        "name": "3HOLES_TEST-РЕКОМЕНДОВАНО",
+        "host": "obhod.sigma.dance",
+        "port": 25945,
+        "id": "e14992da66114988b70a53b29c0f14ee"
       }
     ],
     "skins": [
