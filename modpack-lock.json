@@ -1807,6 +1807,16 @@
         "hashes": {
           "sha256": "5e9197ebbc1394c312e123ccf73797d75cfd7124d41d8a46ba4da5c74b7f94c2"
         }
+      },
+      {
+        "enabled": true,
+        "name": "3HOLES-Music-Discs-1.0.0-mc1.21.1",
+        "id": "365d54db70db4b17b67af819593a2373",
+        "filename": "c85bf467bafcfc55bb054247.zip",
+        "url": "https://raw.githubusercontent.com/KeKHyTblN/modlist/main/content/c85bf467bafcfc55bb0542476d6798e6d6fe41976629d4e9d0ae42137dec9c56/c85bf467bafcfc55bb054247.zip",
+        "hashes": {
+          "sha256": "c85bf467bafcfc55bb0542476d6798e6d6fe41976629d4e9d0ae42137dec9c56"
+        }
       }
     ],
     "keybindings": {
@@ -1832,6 +1842,8 @@
           "sha256": "8208900b7cd2c7e4c05d1932db7ed45404f3e9b53dabbfe21bb2aca9fe3e4992"
         }
       }
-    ]
+    ],
+    "apply_policy": "once_per_publication",
+    "publication_id": "30a870b1b3454bdc8c694e382e408dac"
   }
 }
